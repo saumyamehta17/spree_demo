@@ -17,3 +17,4 @@ end
 
 # Spree.user_class = "Spree::LegacyUser"
 Spree.user_class = 'Spree::User'
+Devise.secret_key = "5f18ee728b8f3c31e3efbdfc1995adf3ad2e934068c7cf0d46eac4d582e7cc21ef1a9ddb424711ddd11347acbc37df9e1e82"
